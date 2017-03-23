@@ -7,13 +7,13 @@ Contenido programático de la asignatura Lenguajes de Programación.
 - Definición de Lenguajes de Programación
 - Definición de Algoritmos
 - Taxonomía de los lenguajes de programación
-- Diferencias entre paradigma estructurado y el paradigma orientado a objetos.
+- Diferencias entre paradigma estructurado y el paradigma orientado a objetos
 - Características de Javascript
-- Sintaxis de Javascript.
+- Sintaxis de Javascript
 
 ## Unidad 2. Algoritmos de Búsqueda y Ordenamiento.
 
-- Características y particularidades de las estructuras de datos en Javascript.
+- Características y particularidades de las estructuras de datos en Javascript
 - Tipos de Algoritmos de Búsqueda:
   + Búsqueda Lineal
   + Búsqueda Binaria
@@ -23,11 +23,11 @@ Contenido programático de la asignatura Lenguajes de Programación.
   + Quicksort
 - Complejidad Ciclomática
 - Análisis de McCabe
-- Particularidades de Javascript respecto a sus algoritmos internos de ordenamiento.
+- Particularidades de Javascript respecto a sus algoritmos internos de ordenamiento
 
 ## Unidad 3. Estructuras de Datos.
 
-- Definición de Estructura de Datos.
+- Definición de Estructura de Datos
 - Tipos de Estructuras de Datos:
   + Estáticas (definición)
   + Dinámicas (definición)
@@ -41,7 +41,17 @@ Contenido programático de la asignatura Lenguajes de Programación.
   + Colas
   + Listas
   + Árboles
+- Modelado de Estructuras de Datos en Javascript
+- Árbol del DOM Javascript
 
 ## Unidad 4. Señales y Control Secuencial.
+
+- Definición de Señales, de Control, de Protocolos
+- Definición de Autómata Finito
+- Máquina de Moore
+- Protocolos para Control Secuencial Web
+- Simulación de Autómata Finito para Javascript
+- Simulación de GPIO para Javascript
+
 ## Unidad 5. Manejo Avanzado de Archivos.
 ## Unidad 6. Cómputo Avanzado.
